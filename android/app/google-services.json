@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1082614934887",
+    "project_id": "geolocator-36342",
+    "storage_bucket": "geolocator-36342.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082614934887:android:2c028d629e2e214cbe93c2",
+        "android_client_info": {
+          "package_name": "com.example.geo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082614934887-pc0h82mipm11dbcu87vf6lan8c9e67k2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3UC_oiAghQHODPKQo4fDMxaKMkWMBk1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082614934887-pc0h82mipm11dbcu87vf6lan8c9e67k2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082614934887:android:f880a6ef30ad4f34be93c2",
+        "android_client_info": {
+          "package_name": "com.example.ujikom2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082614934887-pc0h82mipm11dbcu87vf6lan8c9e67k2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3UC_oiAghQHODPKQo4fDMxaKMkWMBk1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082614934887-pc0h82mipm11dbcu87vf6lan8c9e67k2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
